@@ -86,7 +86,8 @@ void main() {
     'Edvan',
     'Bruna',
     'Luan',
-    'Daniel'
+    'Daniel',
+    'Wivianey'
   ];
   print('Lista inteira a seguir $listTeste');
   print("========================================================");
