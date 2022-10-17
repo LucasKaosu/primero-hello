@@ -26,7 +26,7 @@ void main() {
   //Argumento nomeado e informado, portanto nao gera erro, porem caso cor e
   //diaDeColheita não fossem informados, retornaria erro de um argumento
   //faltando, perceba também que a ordem dos dois argumentos estão invertidas
-  //e isso não gera erra, pois parâmetros nomeado não exigem ordem exata dos
+  //e isso não gera erro, pois parâmetros nomeados não exigem ordem exata dos
   //argumentos
   print("===================================================================");
 }
